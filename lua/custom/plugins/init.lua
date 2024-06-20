@@ -4,5 +4,6 @@
 -- See the kickstart.nvim README for more information
 return {
   -- 'github/copilot.vim',
-  'Exafunction/codeium.vim'
+  'Exafunction/codeium.vim',
+  'tpope/vim-fugitive',
 }
